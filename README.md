@@ -16,7 +16,7 @@ The goal is to better capture **value for money** through textual analysis.
 
 ## 📊 Data Collection
 
-- Restaurants collected within a 500-meter radius of McGill University using the Google Maps API
+- Restaurants collected within a 500 meter radius of McGill University using the Google Maps API
 - Initial dataset: 108 establishments
 - Cleaned dataset: 90 unique restaurants and cafés
 - Five most recent reviews per restaurant (450 reviews total)
