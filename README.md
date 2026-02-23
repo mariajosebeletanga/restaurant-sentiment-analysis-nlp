@@ -1,8 +1,9 @@
 # restaurant-sentiment-analysis-nlp
 
+Text-based sentiment analysis of Google Maps reviews to evaluate restaurant quality and value for money around McGill University.
+
 # McGill Restaurant Sentiment Analysis
 
-Text-based sentiment analysis of Google Maps reviews to evaluate restaurant quality and value for money around McGill University.
 
 ## 📌 Project Overview
 
